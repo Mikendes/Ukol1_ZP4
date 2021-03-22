@@ -1,1 +1,3 @@
 Druhý textak pro pokus 3. commitu
+
+Uprava pro 4. commit
